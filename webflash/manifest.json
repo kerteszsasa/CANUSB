@@ -1,0 +1,12 @@
+{
+    "name": "CANUSB",
+    "new_install_prompt_erase": true,
+    "builds": [
+      {
+        "chipFamily": "ESP8266",
+        "parts": [
+          { "path": "CANUSB2v5-1M.bin", "offset": 0 }
+        ]
+      }
+    ]
+  }
